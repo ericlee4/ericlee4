@@ -1,5 +1,6 @@
 # svg redirect
-![test](https://ericlee.dev/circle1.html)
+
+![red square](https://ericlee.dev/static/circle1.svg?val=2)
 <!--
 **ericlee4/ericlee4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
