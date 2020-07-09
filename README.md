@@ -1,5 +1,5 @@
 # broken svg test
-![test](https://ericlee.dev/circle.svg)
+![test](https://ericlee.dev/circle.svg?cache=7)
 <!--
 **ericlee4/ericlee4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
