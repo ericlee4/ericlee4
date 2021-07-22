@@ -1,5 +1,5 @@
 # svg redirect
-~![red square](#)~ temporarily unavailable
+~![red square](https://ericlee4.github.io/circle.svg)~
 
 Messing around with trying to bypass CSP and find XSS vulnerabilities. I'm
 embedding an HTML page within an SVG and using the meta refresh element to
